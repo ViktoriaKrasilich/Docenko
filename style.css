@@ -1,0 +1,152 @@
+body {
+    font-family: sans-serif;
+    background-image: url(https://www.topgear.com/sites/default/files/2022/09/1-BMW-3-Series.jpg);
+}
+h1{
+    text-align: center;
+    color:black ;
+       background-image: linear-gradient(to right bottom,darkblue,blue);
+    margin-left: 150px;
+     margin-right: 150px;
+     border-radius: 20px;
+     padding-left: 500px;
+}
+nav{
+     justify-content: space-between;
+    display: flex;
+}
+
+.BMW{
+ background-image: linear-gradient(to right bottom,blue,lightblue);
+ border-radius: 5px;
+ padding-right:30px ;
+ padding-left:30px ;
+ top: px;
+}
+.Honda{
+background-image: linear-gradient(to right bottom,blue,lightblue);
+ border-radius: 5px;
+ padding-right:30px ;
+ padding-left: 30px;
+}
+.Volkswagen{
+    background-image: linear-gradient(to right bottom,blue,lightblue);
+ border-radius: 5px;
+ padding-right:30px ;
+ padding-left:30px ;
+}
+.Ford{
+    background-image: linear-gradient(to right bottom,blue,lightblue);
+ border-radius: 5px;
+ padding-right:30px ;
+ padding-left:30px ;
+ opacity: 1;
+}
+.Hyundai{
+    background-image: linear-gradient(to right bottom,blue,lightblue);
+ border-radius: 5px;
+ padding-right:30px ;
+ padding-left: 30px;
+}
+.jjjj{
+    background-image: linear-gradient(to right bottom,blue,lightblue);
+ border-radius: 5px;
+ padding-right:30px;
+ padding-left: 30px;
+}
+td{
+    text-align: center;
+}
+h2{
+    color:black;
+     background-image: linear-gradient(to right bottom,darkblue,blue);
+     text-align: center;
+     margin-left: 120px;
+     margin-right: 120px;
+     border-radius: 20px;
+     padding: 2px;
+}
+.vlad{
+font-size: 50px;
+color: darkblue;
+content: url(https://learn.logikaschool.com/uploads/student/2013253/660025640fd16.png);
+width: 100px;
+height: 100px;
+}
+.rrrr{
+    color: darkblue;
+    font-size: 50px;
+}
+.docuk{
+   font-size: 50px;
+color: darkblue;
+content: url(https://learn.logikaschool.com/uploads/student/2013253/66002c752c72b.png);
+width: 100px;
+height: 100px;
+}
+.nnnn{
+     font-size: 50px;
+color: darkblue;
+content: url(https://learn.logikaschool.com/uploads/student/2013253/66002d22bac7f.png);
+width: 100px;
+height: 100px;
+}
+.mmmm{
+     font-size: 50px;
+color: darkblue;
+content: url(https://learn.logikaschool.com/uploads/student/2013253/66002f7fc7733.png);
+width: 200px;
+height: 100px;
+}
+.hhhh{
+     font-size: 50px;
+color: darkblue;
+content: url(https://learn.logikaschool.com/uploads/student/2013253/66003088b0f01.png);
+width: 200px;
+height: 100px;
+}
+main{
+     justify-content: space-between;
+    display: flex;
+    padding: 50px;
+}
+.gggg{
+    text-align: center;
+}
+.tttt{
+   font-size: 30px; 
+   color: white;
+   background-color:darkblue;
+   border-radius: 30px;
+   padding: 20px;
+}
+.df{
+    color: black;
+}
+nav a:hover{
+    background-image: linear-gradient(to right bottom,lightblue,blue);
+    opacity: 1;
+}
+h1:hover{
+     background-image: linear-gradient(to right bottom,blue,darkblue);
+}
+span{
+    top: 542px;
+ position: fixed;
+   height: 25px;
+   width: 1185px;
+   display: inline;
+   background-color: gray;
+   bottom: px;
+   right: 1px;
+    justify-content: space-between;
+   
+}
+.llll{
+    background-image: linear-gradient(to right bottom,blue,lightblue);
+ margin-left: 10px;
+ border-radius: 5px;
+ padding: 5px;
+ margin-right: 10px;
+}
+ 
